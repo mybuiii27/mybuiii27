@@ -1,4 +1,4 @@
-## HI EVERYONE # Hello, I'm My 👋
+ # Hello, I'm My 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to build cool projects and solve real-world problems. Here's a little about me:
 
