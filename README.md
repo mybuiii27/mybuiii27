@@ -14,6 +14,7 @@ NOT FOUND
 
 ## Fun Fact ⚡
 
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Buimy.27) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kmwmm27) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@BuiMy2711) 
 
@@ -35,23 +36,10 @@ NOT FOUND
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mybuiii27&icon=0&color=0)](https://visitcount.itsvg.in)
-# Hello, I'm My 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves to build cool projects and solve real-world problems. Here's a little about me:
-
-## About Me 🚀
-
-- **Name:** Bùi Thị Kiều My
-- **Location:** Dien Khanh
-- **Occupation:** Learns in Nha Trang University
-- **Interests:** Coding, Reading books, Enjoying coffee, Learning new things, and Sleeping ^^
-
-## My Projects 💻 
-NOT FOUND
-
-## Fun Fact ⚡
 
 ---
+![image](https://github.com/user-attachments/assets/30c681f8-caa5-47ac-9d66-3797b0763743)
 
 Thanks for visiting my profile! Have a great day! 😄
 
