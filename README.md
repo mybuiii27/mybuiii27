@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build cool
 
 ## About Me 🚀
 
-- **Name:** Bùi Thị Kiều My
-- **Location:** Dien Khanh
-- **Occupation:** Learns in Nha Trang University
-- **Interests:** Coding, Reading books, Enjoying coffee, Learning new things, and Sleeping ^^
+- **Name:** Bùi Thị Kiều My.
+- **Location:** Dien Khanh.
+- **Occupation:** Currently studying Management Information Systems at Nha Trang University.
+- **Interests:** Coding, Reading books, Enjoying coffee, Learning new things, and Sleeping. ^^
 
 ## My Projects 💻 
 NOT FOUND
